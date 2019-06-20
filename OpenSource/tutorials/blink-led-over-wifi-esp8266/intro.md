@@ -1,4 +1,5 @@
 This tutorial will take you through the basic set up of the WEMOS ESP8266 Board and the Arduino IDE.
+__
 
 By the end of this tutorial you will:
 
@@ -7,12 +8,12 @@ By the end of this tutorial you will:
 3. Be able to successfuly initialize your Arduino IDE to work with esp8266 boards
 
 ### Tools:
-	 WEMOS d1 r1 dev board
-	 USB micro
-	 LED
-	 Resistor
-	 Breadboard
+1. WEMOS d1 r1 dev board
+2. USB micro
+3. LED
+4. Resistor
+5. Breadboard
 
 ### Software:
-	Arduino IDE
-	Web browser
+1. Arduino IDE
+2. Web browser
