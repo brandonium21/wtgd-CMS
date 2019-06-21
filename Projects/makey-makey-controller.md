@@ -2,8 +2,9 @@ So early one day decided to slack off and play video games. Usually, this would 
 
 By now I have realized that this won't be a slack worthy day but instead a day of maker proportions. The Makey Makey is a capacive touch platform where people can turn anything that can handle a current into a touch sensitive trigger that maps to strokes on a keyboard. This means you can play musical chairs with actual chairs. 
 
+" "
 ![Makey makey](https://ksr-ugc.imgix.net/assets/011/354/784/0bc7529530ce2fa1207f587893a4298b_original.jpg?ixlib=rb-1.1.0&crop=faces&w=1552&h=873&fit=crop&v=1463681439&auto=format&frame=1&q=92&s=2119f3d16b3c64938bf03c2455552707")
-
+" "
 The problem is that the base Makey Makey has only 2 action buttons and thats not enough to play any respectable game. I was looking mash buttons like the world's about to end. So, I needed to make use of the breakout pins on the back.
 
 ![makey makey back](https://cdn.sparkfun.com/assets/e/4/8/3/f/52e977b0ce395f6f178b4567.jpg "makey makey back")
