@@ -21,8 +21,6 @@ I used Fusion360 to design it and add pressfit spacers to allow for wire routing
 <br/><br/>
 ![makey makey controller spacers](https://i.imgur.com/6UDLoLl.jpg "makey makey controller spacers")
 <br/><br/>
-<iframe src="https://myhub.autodesk360.com/ue283ce5a/shares/public/SH56a43QTfd62c1cd9689ef3ead33924f452?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-<br/><br/>
 The controller ended up working pretty well I added peice of funky foam in the middle of the D-pad to mimic the rocking motion. And to keep you grounded I added a strip of copper tape to the back to that you're allways grounded.
 <br/><br/>
 ![makey makey dpad](https://i.imgur.com/szLKHbl.jpg "makey makey dpad")
