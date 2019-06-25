@@ -1,3 +1,5 @@
+![simple-trigger-drawing](https://i.imgur.com/FqOtTDC.png "simple-trigger-drawing")
+
 ![simple-trigger full](https://i.imgur.com/8X2wMhm.png "simple-trigger full")
 
 I had decided to build a laser tag platform with multiple classes with a co-worker of mine. After, thing about it we decided to start with the fundamental parts and make them modular. The parts included a cpu, trigger, target and barrel. I wanted the parts to be simple and cheap.
