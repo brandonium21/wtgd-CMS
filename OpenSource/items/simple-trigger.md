@@ -1,4 +1,4 @@
-![simple-trigger-drawing](https://i.imgur.com/FqOtTDC.png "simple-trigger-drawing")
+![simple-trigger-drawing](https://i.imgur.com/Kv3ursn.png "simple-trigger-drawing")
 
 ![simple-trigger full](https://i.imgur.com/8X2wMhm.png "simple-trigger full")
 
