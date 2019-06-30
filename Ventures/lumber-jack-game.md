@@ -1,3 +1,5 @@
+![Imgur](https://i.imgur.com/4GeacRN.jpg)
+
 What happens when 3 friends with their bellies full sit in a room? They make the Lumber Jack game. The Lumber Jack Game is a board game in which 3 - 4 players enter a compition to see who can chop down their tree the fastest. One would think that turning trees into logs would be a boring undertaking, Not here! With players able to level up their tools, natural disaters coming out of nowhere and forest critters doing there thing; chopping down trees become real interesting.
 
 #### The objective
