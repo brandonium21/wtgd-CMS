@@ -8,7 +8,7 @@ This is one of my biggest projects to date. And its due for a redesign.
 
 ![Imgur](https://i.imgur.com/8f9UNsu.jpg)
 
-####The Overhead Light
+#### The Overhead Light
 So this is easily one of my favorite features I literally thought I was a genius. In the top left corner of the box was a light. There is a magnet on the top and cardboard for flexibility holding the light arm to the box. Swing it up the magnet holds it. Turn it on done!
 
 hidden             |  over head
