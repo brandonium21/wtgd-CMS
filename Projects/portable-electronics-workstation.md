@@ -15,7 +15,7 @@ hidden             |  over head
 :-------------------------:|:-------------------------:
   ![Imgur](https://i.imgur.com/VLq1Eya.jpg)|  ![Imgur](https://i.imgur.com/F5H2Fkk.jpg)
 
-####THE POWER SUPPLY:
+#### THE POWER SUPPLY:
 
 I took a 24v 6A power brick apart and used a buck converter and ATmega to regulate and display voltage, The output went to screw post of my breadboard. 12v 5v variable.
 
