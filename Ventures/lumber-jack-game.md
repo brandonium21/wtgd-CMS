@@ -11,7 +11,7 @@ All player start off with scissors as their base tool. All tools have a power ra
 
 The power rating coorelates to the hardness of the tree at different sections of the trunk. With every chop the power rating of the tool subtracts from the hardness of the tree trunk. 
 
-ex. [scissors PR = 1 and the hardness at the tippy top of the tree is 1. This means it takes 1 chop to make your first log.]
+ex. (scissors PR = 1 and the hardness at the tippy top of the tree is 1. This means it takes 1 chop to make your first log.)
 
 ![Imgur](https://i.imgur.com/dFAuTqE.jpg)
 
