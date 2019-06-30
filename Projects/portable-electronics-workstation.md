@@ -21,7 +21,7 @@ I took a 24v 6A power brick apart and used a buck converter and ATmega to regula
 
 ![Imgur](https://i.imgur.com/MJ7Z0Sl.jpg)
 
-####THE STORAGE:
+#### THE STORAGE:
 
 I was very proud of this. I stayed with in the dimensions of a standard briefcase. That meant I only had an inch to store all my components. So i designed and 3d printed 1 inch capsules to store resistors, LEDs, transistors etc. and it worked! I then took some chipboard and looped it and stapled it to hold all of my capsules.
 
@@ -29,19 +29,19 @@ I was very proud of this. I stayed with in the dimensions of a standard briefcas
 
 ![Imgur](https://i.imgur.com/4qTdN1i.jpg)
 
-####THE BUILT IN ARDUINO
+#### THE BUILT IN ARDUINO
 
 I drilled a hole into the side of the box to expose an Arduino USB I then broke out the pins through a slot and inserted them into the breadboard. This was great because Arduinos slide everywhere and break my jumpers.
 
 ![Imgur](https://i.imgur.com/11YremO.jpg)
 
-####THE POWER STRIP
+#### THE POWER STRIP
 
 I mounted a power strip to the side, You would not think you would need one but I did so it became a feature. I can not tell you how often it came in handy. Computer phone, soldering iron, etc.
 
 ![Imgur](https://i.imgur.com/IgSRCE7.jpg)
 
-####THE SOLDER STATION.
+#### THE SOLDER STATION.
 
 I mounted helping hand in the bottom right of the box for holding perfboards. There was also a small computer fan with a carbon filter under it. For soldering in my dorm room, This box is just packed with features. Also there was a slot on top to hold a soldering iron holder.
 
@@ -57,6 +57,6 @@ I mounted helping hand in the bottom right of the box for holding perfboards. Th
 
 ![Imgur](https://i.imgur.com/XZL31M7.jpg)
 
-####Conclusion
+#### Conclusion
 
 All-in-all the portable electronic workstation was a success but it proved to be bulky and had more features than I needed. Many of my friends believe that I should sell them but before that happens I need to revisit it's usecase. Now, that there is a push to put electronics education in schools I find myself wanting to redesign my workstation to make it well suited for classroom use. 
