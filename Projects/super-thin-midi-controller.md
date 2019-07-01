@@ -23,7 +23,7 @@ After that I took it to the laser and cut out everything.
 
 Then, I cut the copper tape to look like the silicone membrane pcb.
 
-[Imgur](https://i.imgur.com/iE3LiHP.png)
+![Imgur](https://i.imgur.com/iE3LiHP.png)
 
 I connected the wires everyone to a trinket digital pin, and the other to ground, I ended up using internal pull ups to prevent floating values.
 
