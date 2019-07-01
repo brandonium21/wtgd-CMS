@@ -14,7 +14,7 @@ I scoured the internet for a DIY Wack a mole game and failed. I actually thought
  - Wooden Dowel
  - Wood screws
  
-#####TOOLS:
+##### TOOLS:
  - Laser cutter
  - Hot glue gun
  - Soldering iron
