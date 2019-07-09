@@ -10,12 +10,13 @@
 | Email | <brandonium21@gmail.com> |
 | Blog | <https://www.whilethegluedries.com> |
 | Github | <https://github.com/brandonium21> |
+| LinkedIn | <https://www.linkedin.com/in/brandonium21/> |
 
 
 ## Experience Summary
 
 - Over 6 years of experience in software development, primarily focused on building MVPs and POCs for early and growth stage startups.
-- Strong programming skills, ability to analyse and design requirements and a practical approach towards software design and product development.
+- Strong programming skills, ability to analyse and design simple solutions towards software design and product development.
 - Experience applying cutting edge technology solutions to problems.
 
 ## Academics
