@@ -34,7 +34,8 @@
 ## Work History
 
 | Title/Position             | Name of Employer				    | Location	  	 | Duration		 	 |
-|----------------------------|----------------------------------|----------------|-------------------| 
+|----------------------------|----------------------------------|----------------|-------------------|
+| CEO    	 | Ceptier LLC            		| Urbana | Presently Working |
 | Freelance Programmer     	 | Self Employed            		| Work From Home | Presently Working |
 | Mentor  | Thinkful, Inc				| Urbana           | Presently Working			 |
 | Technology Consultant     | Champaign-Urbana Community Fablab		| Urbana         | Presently Working		 |
