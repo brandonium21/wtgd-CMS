@@ -24,7 +24,6 @@ Quite simply the idea is " Receipts on the blockchain ".  We believe Proof of Pu
 
 #### OUR PRESENTATION:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJEzdzKUPlPtDDYB0zajr-oik9j5i9yEN6Y_f3Jr32pZaX7H4DQDJII_QV6pss28IyOhwZH_JGCkrk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 I really Excited to get started I be using Ethereum smart contracts and IPFS to get the backend going so lets see what happens.
 
 
