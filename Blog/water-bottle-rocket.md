@@ -1,4 +1,4 @@
-# I need to build a watterbottle rocket
+# I need to build a water bottle rocket
 
 My Boss said we are going to be making and launching rockets with a group of kids in a week and I said OK.
 
