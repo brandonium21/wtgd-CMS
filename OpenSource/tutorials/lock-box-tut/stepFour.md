@@ -1,3 +1,5 @@
+#### Assemble the Lock Box
+
 Finally, we assemble the box by facing the Cam's flat side toward the edges. 
 This is the unlocked position.
 
